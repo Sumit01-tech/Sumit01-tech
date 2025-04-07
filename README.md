@@ -52,7 +52,7 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
   <a href="https://Sumit01-tech.github.io">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-  <a href="linkedin.com/in/sumit-gourav-884a86220/" target="linkedin.com/in/sumit-gourav-884a86220/">
+  <a href="https://www.linkedin.com/in/sumit-gourav-884a86220/" target="linkedin.com/in/sumit-gourav-884a86220/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
 </p>
