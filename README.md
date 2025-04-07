@@ -3,10 +3,10 @@
 
 
 
-<!---[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=750&lines=Hey++there+%2C+I'm+Saurav+Chavan)</div>](https://git.io/typing-svg) --->
+<!---[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=750&lines=Hey++there+%2C+I'm+Sumit+Gourav)</div>](https://git.io/typing-svg) --->
 
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Front-end+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
 
@@ -19,7 +19,7 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
  
 - 🌍  I hail from Pune, Maharashtra.
 
-- 🔥  Visit my [Portfolio](https://saurav9284.github.io) for more details.
+- 🔥  Visit my [Portfolio](https://Sumit01-tech.github.io) for more details.
 
 - ✉️  You can contact me at [sumit.gourav280800@gmail.com](mailto:sumit.gourav280800@gmail.com)
 
@@ -46,13 +46,13 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 
  #### 👨‍💻CONNECT WITH ME:
 
-<!--- ![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5) --->
+<!--- ![Portfolio](https://github.com/Sumit01-tech/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5) --->
 
 <p align="left">
-  <a href="https://saurav9284.github.io">
+  <a href="https://Sumit01-tech.github.io">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/saurav-chavan/" target="https://www.linkedin.com/in/saurav-chavan/">
+  <a href="linkedin.com/in/sumit-gourav-884a86220/" target="linkedin.com/in/sumit-gourav-884a86220/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
 </p>
@@ -79,7 +79,6 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
-<img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
@@ -97,13 +96,13 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurav9284&count_private=true&theme=light" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saurav9284&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit01-tech&count_private=true&theme=light" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit01-tech&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
 </div>
 <br>
 <br>
   <img  className="github-top-langs" id="github-top-langs"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav9284&layout=compact&theme=light&hide_border=true"
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit01-tech&layout=compact&theme=light&hide_border=true"
               alt="top laguges"
               id="github-top-langs" />
  
