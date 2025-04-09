@@ -19,7 +19,7 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
  
 - 🌍  I hail from Pune, Maharashtra.
 
-- 🔥  Visit my [Portfolio](https://Sumit01-tech.github.io) for more details.
+- 🔥  Visit my [Portfolio](https://sumit01-tech-github-io-cu11.vercel.app) for more details.
 
 - ✉️  You can contact me at [sumit.gourav280800@gmail.com](mailto:sumit.gourav280800@gmail.com)
 
