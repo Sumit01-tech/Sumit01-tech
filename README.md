@@ -46,8 +46,6 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 
  #### 👨‍💻CONNECT WITH ME:
 
-<!--- ![Portfolio](https://github.com/Sumit01-tech/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5) --->
-
 <p align="left">
   <a href="https://Sumit01-tech.github.io">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
