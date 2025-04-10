@@ -94,7 +94,7 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumit01-tech&count_private=true&theme=light" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit01-tech&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit01-tech&theme=vue-dark&hide_border=true" height="150" alt="streak graph"  />
 </div>
 <br>
 <br>
