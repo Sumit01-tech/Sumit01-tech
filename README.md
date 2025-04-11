@@ -12,7 +12,8 @@
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-I'm a Frontend Web Developer skilled in React.js. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+I am a aspiring Front-End Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
+I am very much keen in learning new things in Front-End, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally. 💡..</h4>
 <br/>
 
 - ⭐ Currently learning TypeScript and Next.js
