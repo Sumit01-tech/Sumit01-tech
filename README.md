@@ -37,7 +37,7 @@ I specialize in React, JavaScript, Redux, and Chakra UI. I'm a quick learner, te
 
 ## 📫 Connect with Me
 
-- 🌍 Portfolio: [https://sumit01-tech-github-io-8hb1.vercel.app](https://sumit01-tech-github-io-8hb1.vercel.app/)
+- 🌍 Portfolio: [https://sumit01-tech-github-io-8hb1.vercel.app](https://sumit01-tech-github-io-8hb1.vercel.app)
 - ✉️ Email: [sumit.gourav280800@gmail.com](mailto:sumit.gourav280800@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sumit-gourav-884a86220](https://www.linkedin.com/in/sumit-gourav-884a86220/)
 - 💡 Latest Project: [Revamped Niche Community Platform](https://revamped-niche-community-platform.vercel.app) – *Selected as a Top Project at Masai School*
