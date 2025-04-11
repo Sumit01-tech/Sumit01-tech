@@ -1,10 +1,12 @@
-<h1 align="center">Hi, I'm Sumit Gourav 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align="center">🚀 Front-End Developer | 1500+ hours of hands-on coding | React & JavaScript Enthusiast</p>
+<h1>Hi, I'm Sumit Gourav 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00FFFF&width=500&lines=Frontend+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡" alt="Typing SVG" />
-</p>
+<p>🚀 Front-End Developer | 1500+ hours of hands-on coding | React & JavaScript Enthusiast</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00FFFF&width=500&lines=Frontend+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -47,7 +49,7 @@ I specialize in React, JavaScript, Redux, and Chakra UI. I'm a quick learner, te
 ## ⚒️ Tech Stack & Tools
 
 <div align="center">
-  
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
