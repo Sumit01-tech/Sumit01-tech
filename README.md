@@ -11,8 +11,8 @@ Aspiring Front-End Web Developer passionate about building responsive and user-f
 #### 👨‍💻ABOUT ME:
 
 <h4 align="center">
-I am an aspiring Front-End Web Developer, currently pursuing a 30-Week Full-Time web development course at Masai School, Bengaluru.
-I am very much keen on learning new things in Front-End. I am interested to serve in an environment that enables me to utilize my knowledge and skills effectively toward the achievement of the organization and to progress professionally. 💡
+I'm an aspiring Front-End Web Developer, currently pursuing a 30-Week Full-Time Web Development course at Masai School, Bengaluru.
+With over 1500+ hours of coding experience, I enjoy building intuitive and responsive web applications. I'm currently exploring TypeScript and Next.js, and I’m eager to join a dynamic team where I can contribute, collaborate, and grow as a developer. 💡
 </h4>
 
 <br/>
