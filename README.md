@@ -1,4 +1,4 @@
-
+         
 <h1 align="center">Hi , I'm Sumit Gourav 😊<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
@@ -16,6 +16,12 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 <br/>
 
 - ⭐ Currently learning TypeScript and Next.js
+
+- 👯 I’m looking to collaborate on ...React.JS
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...HTML|CSS|JavaScript
  
 - 🌍  I hail from Pune, Maharashtra.
 
