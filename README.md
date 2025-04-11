@@ -23,7 +23,7 @@ I'm a Frontend Web Developer skilled in React.js. My passion for software lies w
 
 - ✉️  You can contact me at [sumit.gourav280800@gmail.com](mailto:sumit.gourav280800@gmail.com)
 
-- ⭐ My latest project [Revamped Niche Community Platform](revamped-niche-community-platform.vercel.app
+- ⭐ My latest project [Revamped Niche Community Platform](https://revamped-niche-community-platform.vercel.app
 ) selected in Top      Project in Masai School
 <br />
 <hr>
