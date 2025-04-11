@@ -4,9 +4,11 @@
 
 <p>🚀 Front-End Developer | 1500+ hours of hands-on coding | React & JavaScript Enthusiast</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00FFFF&width=500&lines=Frontend+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡" alt="Typing SVG" />
-
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00FFFF&width=500&lines=Frontend+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡" alt="Typing SVG" />
+</p>
 
 ---
 
