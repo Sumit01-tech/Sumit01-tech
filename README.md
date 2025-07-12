@@ -80,9 +80,3 @@ I specialize in React, JavaScript, Redux, and Chakra UI. I'm a quick learner, te
 </p>
 
 ---
-
-## 👀 Visitor's Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sumit01-tech/count.svg" alt="visitor badge" />
-</p>
